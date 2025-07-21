@@ -1,5 +1,5 @@
 // JavaScript for Astraeus Cooper Poetry Website
-
+//javascript for maroon hour website
 document.addEventListener('DOMContentLoaded', function() {
     // Navigation functionality
     const hamburger = document.querySelector('.hamburger');
