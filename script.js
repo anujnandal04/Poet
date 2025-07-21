@@ -499,7 +499,7 @@ class MusicPlayer {
             { title: "Crush (Before Sunset)", artist: "Cigarettes After Sex", src: "https://res.cloudinary.com/dqatdcj2u/video/upload/v1753048146/Cigarettes_After_Sex_-_Crush_Before_Sunset_cr3fnn.mp4" },
             { title: "Despacito", artist: "Various Artists", src: "https://res.cloudinary.com/dqatdcj2u/video/upload/v1753048215/despacito_sx4yfa.mp4" },
             { title: "Perfect", artist: "Ed Sheeran", src: "https://res.cloudinary.com/dqatdcj2u/video/upload/v1753048152/Ed_Sheeran_-_Perfect_emobjc.mp4" },
-            { title: "Thinking Out Loud", artist: "Ed Sheeran", src: "https://drive.google.com/uc?export=download&id=1O7wxXF9AKkiqhTJalQfUtR3BB3h57NAF" },
+            { title: "Thinking Out Loud", artist: "Ed Sheeran", src: "https://res.cloudinary.com/dqatdcj2u/video/upload/v1753084658/Thinking_out_Loud_f5goiy.mp4" },
             
             // Romantic & Emotional
             { title: "Fall In Love Again", artist: "Unknown Artist", src: "https://res.cloudinary.com/dqatdcj2u/video/upload/v1753048152/fall_in_love_again_eanuhz.mp4" },
